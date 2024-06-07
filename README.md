@@ -47,10 +47,8 @@ DB_NAME=auda_database
 
 
 # Configuración de la Base de Datos
-Crea la base de datos y las tablas, y carga los datos de prueba ejecutando el script database.sql
-```bash
-python database.py
-```
+Crea la base de datos y las tablas, y carga los datos de prueba ejecutando el script database.sql dentro de su gestor de base de datos favorito
+
 
 # Ejecutar el Proyecto
 ```bash
