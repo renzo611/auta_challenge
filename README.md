@@ -31,7 +31,7 @@ venv\Scripts\activate       # En Windows
 
 ## Instala las dependencias necesarias
 ```bash
-pip install -r requirements.txt
+pip install -r libraries.txt
 ```
 
 # Variables de Entorno
